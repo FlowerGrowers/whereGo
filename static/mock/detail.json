@@ -1,0 +1,38 @@
+{
+    "ret": true,
+    "data": {
+        "sightName": "迪士尼小镇",
+        "bannerImg": "http://img1.qunarzz.com/sight/p0/1707/82/821428e3bbf93bbaa3.water.jpg_600x330_2385695d.jpg",
+        "galleryImgs": [
+            "http://img1.qunarzz.com/sight/p0/1707/c2/c2be8d6326cdea1a3.water.jpg_r_800x800_97e80887.jpg",
+            "http://img1.qunarzz.com/sight/p0/1707/c4/c48e92049336b8ffa3.water.jpg_r_800x800_42a54b54.jpg"
+        ],
+        "categoryList": [
+            {
+                "title": "成人票",
+                "children": [
+                    {
+                        "title": "成人三人团票",
+                        "children": [
+                            {
+                                "title": "成人三人团票-亲情套餐"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "成人五人团票"
+                    }
+                ]
+            },
+            {
+                "title": "学生票"
+            },
+            {
+                "title": "儿童票"
+            },
+            {
+                "title": "特惠票"
+            }
+        ]
+    }
+}
